@@ -2,6 +2,9 @@ package com.example.sensor;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+//dddddd
+//dddddd
+
 
 public class MainActivity extends AppCompatActivity {
 
